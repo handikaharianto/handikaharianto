@@ -7,8 +7,6 @@ I'm a second year Computer Science Student @ Asia Pacific University of Technolo
 ## Find Me at 🌍
 
 - [Linkedin](https://www.linkedin.com/in/handika-harianto-ew-jong/)
-- [Twitter](https://twitter.com/Handikah_)
-- [Hashnode](https://hashnode.com/@iamhan)
 - [Email](mailto:handikaharianto01@gmail.com)
 
 ## My Skills 🚀
