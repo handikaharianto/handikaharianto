@@ -1,26 +1,37 @@
-# Hi 👋, I'm Han
+<h1 align="center"><b> Handika Harianto Ew Jong </b></h1>
 
-## About Me
+<p> I am Handika Harianto Ew Jong, a second year student at Asia Pacific University of Technology and Innovation with a major in Computer Science. </p>
 
-I'm a second year Computer Science Student @ Asia Pacific University of Technology and Innovation. I am passionate about Web Development and curious to learn more.
+<br>
+<br>
 
-## Find Me at 🌍
+<h2 align="center"> Tech Used. </h2>
+<br>
+<div style="display: flex; align-items: center; justify-content: center;">
+      <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&amp;logo=HTML5" alt="HTML5">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&amp;logo=CSS3" alt="CSS3">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=Javascript" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-SASS-black?style=flat-square&amp;logo=SASS" alt="SASS">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&amp;logo=React" alt="ReactJS">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Java-black?style=flat-square&amp;logo=Java" alt="Java">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=MySQL" alt="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&amp;logo=TailwindCSS" alt="TailwindCSS">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&amp;logo=Bootstrap" alt="Bootstrap">&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
-- [Linkedin](https://www.linkedin.com/in/handika-harianto-ew-jong/)
-- [Email](mailto:handikaharianto01@gmail.com)
+<br>
+<br>
 
-## My Skills 🚀
+<h2 align="center">Connect with me.</h2>
+<div align="center">
+  <a href="https://github.com/handikaharianto">
+    <img src="https://img.shields.io/badge/-handikaharianto-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="https://www.linkedin.com/in/handika-harianto-ew-jong/">
+    <img src="https://img.shields.io/badge/-Handika Harianto Ew Jong-black?style=flat-square&amp;logo=LinkedIn" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+</div>
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-## My GitHub Stats ⚡
-
-![Handika's GitHub stats](https://github-readme-stats.vercel.app/api?username=handikaharianto&count_private=true&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=handikaharianto&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handikaharianto&theme=tokyonight)
+<br>
+<br>
