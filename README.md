@@ -1,6 +1,6 @@
 <h1 align="center"><b> Handika Harianto Ew Jong </b></h1>
 
-<p> I am Handika Harianto Ew Jong, a second year student at Asia Pacific University of Technology and Innovation with a major in Computer Science. </p>
+<p> I am Handika Harianto Ew Jong, a Full Stack Developer and MEng in Software Engineering student at Concordia University in Montreal, Canada. </p>
 
 <br>
 <br>
